@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+.venv/
+venv/
+venv312/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Dataset and temporary files
+dataset/
+datasets/
+data/
+temp/
+tmp/
+*.tmp
+
+# Generated outputs
+.DS_Store
+Thumbs.db
